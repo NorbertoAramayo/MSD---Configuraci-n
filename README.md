@@ -1,4 +1,4 @@
-# MSD-Configuración
+# MSD- Instalación - Configuración
 En esta sección se detalla la configuración e instalación de la tarjeta MSD utilizada en el robot guía
 ### 4-1 Grabado del software en la tarjeta micro SD
 
